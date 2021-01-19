@@ -1,0 +1,167 @@
+    1  ls
+    2  cd/
+    3  cd /
+    4  ls
+    5  cd mnt
+    6  cd c
+    7  ls
+    8  cd user/mxolisi/documents
+    9  ls
+   10  ls /data
+   11  ls / data
+   12  ls /etc / per1
+   13  ls /
+   14  pwd
+   15  mkdir Learning_Unix
+   16  ls
+   17  cd Learning_Unix
+   18  mkdir Outer_directory
+   19  cd Outer_directory
+   20  mkdir Inner_directory
+   21  cd inner_directory
+   22  cd Inner_directory
+   23  cd ~
+   24  cd Inner_directory
+   25  cd Learning_Unix
+   26  cd Outer_directory
+   27  cd Inner_directory
+   28  cd /
+   29  cd mxolisi
+   30  cd Mxolisi
+   31  cd home
+   32  cd mxolisi
+   33  cd /
+   34  /home/mxolisi/
+   35  cd Learning_Unix/
+   36  cd Learning_Unix
+   37  cd Learning_Unix /
+   38  clr
+   39  cd Learning_Unix
+   40  mkdir Learning_Unix
+   41  pwd
+   42  cd Learning_Unix
+   43  cd ..
+   44  pwd
+   45  cd ~
+   46  pwd
+   47  cd /
+   48  pwd
+   49  cd ..
+   50  cd /
+   51  pwd
+   52  cd ~
+   53  pwd
+   54  cd /
+   55  cd ~/Learning_Unix
+   56  cd ~/Learning_Unix/Outer_directory/
+   57  ls../..
+   58  ls .. / ..
+   59  cd /
+   60  ls .. / ..
+   61  cd ~/Learning_Unix/Outer_directory/
+   62  ls -l/home
+   63  ls -l / home
+   64  ls -R /home
+   65  ls-l -t -r
+   66  ls -l -t -r
+   67  ls -lh
+   68  man ls
+   69  man cd
+   70  rmdir Inner_directory
+   71  cd..
+   72  cd ..
+   73  rmdir Outer_directory
+   74  ls
+   75  cd /
+   76  ~
+   77  cd ~
+   78  cd Learning_Unix/
+   79  cd/
+   80  cd /
+   81  cd ~/Learning_Unix/
+   82  cd /
+   83  ~
+   84  cd~
+   85  cd ~
+   86  mdir git-basic-excersizes
+   87  Mkdir git-basic-excersizes
+   88  mkdir git-basic-excersizes
+   89  cd git-basic-excersizes/
+   90  ls -a
+   91  git init 
+   92  ls-a
+   93  ls -a
+   94  gitstatus
+   95  git status
+   96  touch readme.md
+   97  ls-a
+   98  ls -a
+   99  git status
+  100  git log
+  101  git add
+  102  git add readme.md
+  103  git status
+  104  git rm -- cached readme.md
+  105  git rm --cached readme.md
+  106  git status
+  107  git add readme.md
+  108  git commit -m "initial commit"
+  109  git status
+  110  git commit -m"initial commit"
+  111  git config --global user.email "mxolisi.gojolo@gmail.com"
+  112  git config --global.user.name"Mxolisi"
+  113  git config --global.user.name "Mxolisi"
+  114  git commit -m "initial commit"
+  115  git config --global user.name "Mxolisi Sibaya"
+  116  git status
+  117  git commit -m "initial commit"
+  118  git log
+  119  nano readme.md
+  120  cat readme.md
+  121  nano readme.md
+  122  cat readme.md
+  123  gti status
+  124  git status
+  125  git add readme.md
+  126  git status
+  127  git commit -a readme.md
+  128  git commit -a
+  129  git status
+  130  nano readme.md
+  131  git stats
+  132  git status
+  133  git commit -a
+  134  gitlog
+  135  git log
+  136  q
+  137  git checkout
+  138  f9fd1c0de7bc9d14a813c1ea2bee6a0498c47ae1
+  139  cat readme.md
+  140  git log
+  141  cd git-basic-excersizes
+  142  cat readme.md
+  143  gitlog
+  144  git log
+  145  git checkout f9fd1c0de7bc9d14a813c1ea2bee6a0498c47ae1
+  146  cat readme.md
+  147  git checkout main
+  148  cat readme.md
+  149  git checkout main
+  150  git checkout master
+  151  cat readme.md
+  152  git branch
+  153  git branch milkshake-flavours
+  154  git branch
+  155  git checkout milkshake-flavours
+  156  git branch
+  157  nano milkshakes.md
+  158  git status
+  159  git commit -a 
+  160  git add milkshakes.md
+  161  git commit -a
+  162  git log
+  163  git checkout master
+  164  git branch history 
+  165  git log
+  166  git branch
+  167  history > history.txt

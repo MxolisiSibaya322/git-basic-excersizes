@@ -1,0 +1,3 @@
+function ft() {
+  return "hello";
+}
